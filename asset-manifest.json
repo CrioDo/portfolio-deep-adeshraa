@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-deep-adeshraa/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-deep-adeshraa/static/js/main.4e3ec1ad.chunk.js",
+    "main.js.map": "/portfolio-deep-adeshraa/static/js/main.4e3ec1ad.chunk.js.map",
+    "runtime-main.js": "/portfolio-deep-adeshraa/static/js/runtime-main.69c8c528.js",
+    "runtime-main.js.map": "/portfolio-deep-adeshraa/static/js/runtime-main.69c8c528.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-deep-adeshraa/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.2e7f8ddc.chunk.js": "/portfolio-deep-adeshraa/static/js/2.2e7f8ddc.chunk.js",
+    "static/js/2.2e7f8ddc.chunk.js.map": "/portfolio-deep-adeshraa/static/js/2.2e7f8ddc.chunk.js.map",
+    "index.html": "/portfolio-deep-adeshraa/index.html",
+    "precache-manifest.29751ac9fb88ddf3f5d9ea364dae400e.js": "/portfolio-deep-adeshraa/precache-manifest.29751ac9fb88ddf3f5d9ea364dae400e.js",
+    "service-worker.js": "/portfolio-deep-adeshraa/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-deep-adeshraa/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-deep-adeshraa/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.2e7f8ddc.chunk.js.LICENSE.txt": "/portfolio-deep-adeshraa/static/js/2.2e7f8ddc.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-deep-adeshraa/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-deep-adeshraa/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69c8c528.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.2e7f8ddc.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.4e3ec1ad.chunk.js"
+  ]
+}
